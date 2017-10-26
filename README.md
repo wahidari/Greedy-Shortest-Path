@@ -58,6 +58,10 @@
 
     ![](./ss/e.png)
     
+    Dengan menggunakan algoritma greedy pada graph di atas, hasil akhir yang akan didapatkan sebagai jarak terpendek adalah A-C-D-G-I. 
+    Hasi jarak terpendek yang didapatkan ini tidak tepat dengan jarak terpendek yang sebenarnya (A-B-H-I). 
+    Algoritma greedy memang tidak selamanya memberikan solusi yang optimal, dikarenakan pencarian local maximum pada setiap langkahnya, 
+    tanpa memperhatikan solusi secara keseluruhan.
 - ScreenShot 6
 
     ![](./ss/f.png)
