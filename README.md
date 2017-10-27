@@ -7,7 +7,11 @@
 
 ## Language
 
-- [![](https://img.shields.io/pypi/pyversions/Django.svg)] (https://wahidari.gitlab.io) 
+- [![](https://img.shields.io/badge/python-3.6-blue.svg)] (https://wahidari.gitlab.io) 
+
+## Tools
+
+- [![Other](https://img.shields.io/badge/spyder-3-red.svg)](https://gitlab.com/wahidari)
 
 ## Test coverage
 
