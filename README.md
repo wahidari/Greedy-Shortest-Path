@@ -17,9 +17,11 @@
 
 - [![](https://gitlab.com/gnutls/gnutls/badges/master/coverage.svg)](https://wahidari.gitlab.io) python
 
-## Screenshot
+## Documentation
 
-- Misalkan kita ingin bergerak dari titik A ke titik I, dan kita telah menemukan beberapa jalur dari peta:
+- Salah satu contoh dari penyelesaian masalah dengan algoritma greedy yaitu mencari jarak terpendek dari peta
+
+    Misalkan kita ingin bergerak dari titik A ke titik I, dan kita telah menemukan beberapa jalur dari peta:
 
     ![](./ss/a.png)
     
