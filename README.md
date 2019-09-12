@@ -1,21 +1,21 @@
 # Penentuan Jalur Terpendek Dengan Algoritma Greedy
 
-[![](https://gitlab.com/gitlab-org/gitlab-ee/badges/master/build.svg)](https://wahidari.gitlab.io)
-[![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)](https://wahidari.gitlab.io)
-[![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)](https://wahidari.gitlab.io)
-[![](https://img.shields.io/badge/Find%20Me-%40wahidari-009688.svg?style=social)](https://wahidari.gitlab.io)
+[![](https://gitlab.com/gitlab-org/gitlab-ee/badges/master/build.svg)](https://wahidari.github.io)
+[![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)](https://wahidari.github.io)
+[![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)](https://wahidari.github.io)
+[![](https://img.shields.io/badge/Find%20Me-%40wahidari-009688.svg?style=social)](https://wahidari.github.io)
 
 ## Language
 
-- [![](https://img.shields.io/badge/python-3.6-blue.svg)](https://wahidari.gitlab.io) 
+- [![](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/) 
 
 ## Tools
 
-- [![Other](https://img.shields.io/badge/spyder-3-red.svg)](https://gitlab.com/wahidari)
+- [![Other](https://img.shields.io/badge/spyder-3-red.svg)](https://www.spyder-ide.org/)
 
 ## Test coverage
 
-- [![](https://gitlab.com/gnutls/gnutls/badges/master/coverage.svg)](https://wahidari.gitlab.io) python
+- [![](https://gitlab.com/gnutls/gnutls/badges/master/coverage.svg)](https://wahidari.github.io) python
 
 ## Documentation
 
